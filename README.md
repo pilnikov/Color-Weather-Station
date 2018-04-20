@@ -1,6 +1,12 @@
 # Color-Weather-Station
- ![Img](./esp32-weather-station-color-rus/src/pic1.jpg)
+ ![Img](./resources/pic1.jpg)
  
-Это форк https://github.com/ThingPulse/esp8266-weather-station для платформы TTGO TM (ESP32)
+Это форк https://github.com/ThingPulse/esp8266-weather-station для русскоговорящих пользователей
 
-В папке с приставкой "рус" - лежит русифициованная версия.
+Изначально предназначался для платформы TTGO TM MUSIC (ESP32),
+
+но в процессе роста стало возможно использовать на обеих (ESP32/ESP8266) платформах,
+
+и как двуязычную (RU/ENG)
+
+
